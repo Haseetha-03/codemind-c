@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main()
 {
-    int X;
-    scanf("%d",&X);
-    if(X<=250)
+    int x;
+    scanf("%d",&x);
+    if(x<=250)
     {
         printf("YES");
     }
-    else 
+    else
     {
         printf("NO");
     }
