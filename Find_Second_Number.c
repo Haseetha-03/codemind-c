@@ -3,6 +3,6 @@ int main()
 {
     int x,y;
     scanf("%d%d",&x,&y);
-    int res=2*x-y;
-    printf("%d",res);
+    int z=2*x-y;
+    printf("%d",z);
 }
